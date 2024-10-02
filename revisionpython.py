@@ -1,3 +1,3 @@
-age = 23
-
-print (age)
+nom = "nayla"
+message = f"bonjour, {nom}!"
+print(message)
