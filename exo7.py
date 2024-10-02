@@ -1,4 +1,4 @@
 def somme (a,b):
     return a + b
 
-print (somme(1,3))
+print (somme(6,8))
